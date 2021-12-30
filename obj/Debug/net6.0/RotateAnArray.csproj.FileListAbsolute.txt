@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\RotateAnArray.exe
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\RotateAnArray.deps.json
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\RotateAnArray.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\RotateAnArray.dll
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\ref\RotateAnArray.dll
+C:\Users\Lenovo\Desktop\Rotate an Array\bin\Debug\net6.0\RotateAnArray.pdb
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.dll
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\ref\RotateAnArray.dll
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.pdb
+C:\Users\Lenovo\Desktop\Rotate an Array\obj\Debug\net6.0\RotateAnArray.genruntimeconfig.cache
